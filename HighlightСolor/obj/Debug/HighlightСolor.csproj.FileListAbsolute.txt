@@ -1,0 +1,33 @@
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\bin\Debug\HighlightСolor.exe.config
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\bin\Debug\HighlightСolor.exe
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\bin\Debug\HighlightСolor.pdb
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.AssemblyReference.cache
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.SuggestedBindingRedirects.cache
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.Form1.resources
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.Properties.Resources.resources
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.GenerateResource.cache
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.CoreCompileInputs.cache
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.exe
+C:\Users\konuk\source\repos\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.pdb
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\bin\Debug\HighlightСolor.exe.config
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\bin\Debug\HighlightСolor.exe
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\bin\Debug\HighlightСolor.pdb
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.AssemblyReference.cache
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.SuggestedBindingRedirects.cache
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.Form1.resources
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.Properties.Resources.resources
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.GenerateResource.cache
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.CoreCompileInputs.cache
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.exe
+C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.pdb
+D:\Файлы\HighlightСolor\HighlightСolor\bin\Debug\HighlightСolor.exe.config
+D:\Файлы\HighlightСolor\HighlightСolor\bin\Debug\HighlightСolor.exe
+D:\Файлы\HighlightСolor\HighlightСolor\bin\Debug\HighlightСolor.pdb
+D:\Файлы\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.AssemblyReference.cache
+D:\Файлы\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.SuggestedBindingRedirects.cache
+D:\Файлы\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.Form1.resources
+D:\Файлы\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.Properties.Resources.resources
+D:\Файлы\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.GenerateResource.cache
+D:\Файлы\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.csproj.CoreCompileInputs.cache
+D:\Файлы\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.exe
+D:\Файлы\HighlightСolor\HighlightСolor\obj\Debug\HighlightСolor.pdb
