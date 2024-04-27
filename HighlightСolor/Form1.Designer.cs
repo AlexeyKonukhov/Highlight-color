@@ -71,7 +71,7 @@
             this.colorValues.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.colorValues.Location = new System.Drawing.Point(17, 42);
             this.colorValues.Name = "colorValues";
-            this.colorValues.Size = new System.Drawing.Size(200, 35);
+            this.colorValues.Size = new System.Drawing.Size(260, 35);
             this.colorValues.TabIndex = 2;
             this.colorValues.TextChanged += new System.EventHandler(this.colorValues_TextChanged);
             this.colorValues.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.colorValues_KeyPress);
@@ -81,7 +81,7 @@
             this.hotTreckingValues.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.hotTreckingValues.Location = new System.Drawing.Point(17, 113);
             this.hotTreckingValues.Name = "hotTreckingValues";
-            this.hotTreckingValues.Size = new System.Drawing.Size(200, 35);
+            this.hotTreckingValues.Size = new System.Drawing.Size(260, 35);
             this.hotTreckingValues.TabIndex = 3;
             this.hotTreckingValues.TextChanged += new System.EventHandler(this.hotTreckingValues_TextChanged);
             this.hotTreckingValues.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.hotTreckingValues_KeyPress);
@@ -110,7 +110,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label3.Location = new System.Drawing.Point(183, 80);
+            this.label3.Location = new System.Drawing.Point(243, 80);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(34, 13);
             this.label3.TabIndex = 6;
@@ -120,7 +120,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label4.Location = new System.Drawing.Point(183, 151);
+            this.label4.Location = new System.Drawing.Point(243, 151);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(34, 13);
             this.label4.TabIndex = 7;
@@ -152,7 +152,7 @@
             // colorPanel
             // 
             this.colorPanel.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.colorPanel.Location = new System.Drawing.Point(225, 42);
+            this.colorPanel.Location = new System.Drawing.Point(283, 42);
             this.colorPanel.Name = "colorPanel";
             this.colorPanel.Size = new System.Drawing.Size(35, 35);
             this.colorPanel.TabIndex = 10;
@@ -165,7 +165,7 @@
             // hotTreckingPanel
             // 
             this.hotTreckingPanel.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.hotTreckingPanel.Location = new System.Drawing.Point(225, 113);
+            this.hotTreckingPanel.Location = new System.Drawing.Point(283, 113);
             this.hotTreckingPanel.Name = "hotTreckingPanel";
             this.hotTreckingPanel.Size = new System.Drawing.Size(35, 35);
             this.hotTreckingPanel.TabIndex = 11;
@@ -188,7 +188,9 @@
             this.Controls.Add(this.colorValues);
             this.Controls.Add(this.OriginalColors);
             this.Controls.Add(this.Apply);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "HighlightСolor";

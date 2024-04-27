@@ -20,3 +20,13 @@ C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\
 C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Release\HighlightСolor.csproj.CoreCompileInputs.cache
 C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Release\HighlightСolor.exe
 C:\Users\konuk\OneDrive\Рабочий стол\HighlightСolor\HighlightСolor\obj\Release\HighlightСolor.pdb
+C:\Users\konuk\Source\Repos\AlexeyKonukhov\HiligthColor\HighlightСolor\bin\Release\HighlightСolor.exe.config
+C:\Users\konuk\Source\Repos\AlexeyKonukhov\HiligthColor\HighlightСolor\bin\Release\HighlightСolor.exe
+C:\Users\konuk\Source\Repos\AlexeyKonukhov\HiligthColor\HighlightСolor\bin\Release\HighlightСolor.pdb
+C:\Users\konuk\Source\Repos\AlexeyKonukhov\HiligthColor\HighlightСolor\obj\Release\HighlightСolor.csproj.AssemblyReference.cache
+C:\Users\konuk\Source\Repos\AlexeyKonukhov\HiligthColor\HighlightСolor\obj\Release\HighlightСolor.Form1.resources
+C:\Users\konuk\Source\Repos\AlexeyKonukhov\HiligthColor\HighlightСolor\obj\Release\HighlightСolor.Properties.Resources.resources
+C:\Users\konuk\Source\Repos\AlexeyKonukhov\HiligthColor\HighlightСolor\obj\Release\HighlightСolor.csproj.GenerateResource.cache
+C:\Users\konuk\Source\Repos\AlexeyKonukhov\HiligthColor\HighlightСolor\obj\Release\HighlightСolor.csproj.CoreCompileInputs.cache
+C:\Users\konuk\Source\Repos\AlexeyKonukhov\HiligthColor\HighlightСolor\obj\Release\HighlightСolor.exe
+C:\Users\konuk\Source\Repos\AlexeyKonukhov\HiligthColor\HighlightСolor\obj\Release\HighlightСolor.pdb
